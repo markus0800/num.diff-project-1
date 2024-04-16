@@ -1,0 +1,1 @@
+In this project we will do numerical analysis of the heat distribution in anisotropic- and isotropic materials, for both regular- and irregular grids. We explore the effect of irrational step sizes, along with none exact boundaries. We then implement different solvers for irregular grids, and compare the results.
